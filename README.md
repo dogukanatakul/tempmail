@@ -19,3 +19,8 @@ Laravel 6 ile geliştirmiş olduğum temp mail scripti ile kullanıcılara tek k
 Composer paketlerini kurmanız ve env dosyasını düzenlemeniz yeterlidir.
 
 `composer install`
+
+### Mail oluşturma
+Mail hostunuzda karşılığı olmayan mail adreslerine gönderilen mailleri bir e-mail adresinde yönlendirin.
+
+Bu yazılım yönlendirmiş olduğunuz e-mail adresine gelen mailleri smtp ile çeker, filtreler ve listeler.
